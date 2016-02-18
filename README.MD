@@ -5,4 +5,6 @@ Buddhism in the current world has equated into a religion that promotes an ecosy
 * To understand the point of reference of Buddha
 * Concisely explain the philosophy in code
 
+Update:- The work is not complete yet.
+
 Pull requests are welcome <3
